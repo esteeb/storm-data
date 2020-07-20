@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/641249/c985e794dbd64206ba03178e75b16c00
+bundleId: https://api.rpubs.com/api/v1/document/641249/c985e794dbd64206ba03178e75b16c00
+url: http://rpubs.com/esteeb/641249
+when: 1595275209.58844
